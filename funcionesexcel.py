@@ -178,3 +178,4 @@ def venta():
 
                 print(f"\n\nVenta registrada con exito, Total: $ {totalp}\n\n ")
 
+
